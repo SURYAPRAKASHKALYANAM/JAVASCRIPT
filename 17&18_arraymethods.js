@@ -33,7 +33,7 @@ marks = marks.concat(marks2); // concatenates marks2 array to marks array and re
 console.log(marks);
 
 // sort method
-marks.sort(); // sorts the array in ascending order by default
+marks.sort(); // sorts the array in ascending order of alphabets 
 console.log(marks);
 
 // sort method with compare function
@@ -49,3 +49,12 @@ console.log(marks.indexOf(34)); // returns index of element 34 if present in arr
 
 //delete method
 delete marks[0]; // deletes element at index 0 and sets it to undefined
+console.log(marks);
+
+
+// concat three arrays
+let marks3 = [1,2,3,4,5];
+let marks4 = [6,7,8,9,10];
+let marks5 = [11,12,13,14,15];
+marks3 = marks3.concat(marks4,marks5);
+console.log(marks3); 
