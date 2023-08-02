@@ -34,7 +34,7 @@ if(num%2==0 && num%3==0)
 }
 else console.log("NOT DIVISBLE BY 2 AND 3");
 
-// divisible by 2 and 3
+// divisible by 2 or 3
 // this code 
 num=6;
 if(num%2==0 || num%3==0)
@@ -42,3 +42,12 @@ if(num%2==0 || num%3==0)
     console.log("divisible by 2 OR 3");
 }
 else console.log("NOT DIVISBLE BY 2 OR 3");
+
+//DRIVING ELIGIBLITY CHECK
+
+let age4=17;
+if(age4>=18)
+{
+    console.log("you can drive");
+}
+else console.log("you can't drive");
