@@ -34,3 +34,11 @@ if(num%2==0 && num%3==0)
 }
 else console.log("NOT DIVISBLE BY 2 AND 3");
 
+// divisible by 2 and 3
+// this code 
+num=6;
+if(num%2==0 || num%3==0)
+{
+    console.log("divisible by 2 OR 3");
+}
+else console.log("NOT DIVISBLE BY 2 OR 3");
