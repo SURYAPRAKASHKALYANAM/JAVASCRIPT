@@ -1,0 +1,24 @@
+<!--html page is the skelton of webpage-->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Document</title>
+</head>
+<body>
+    <h1>hell world</h1>
+    <div>THIS IS ME </div>
+    <script>
+        console.log("hello world");
+    </script>
+    <!-- advantage of using seperate file using src attribute  of  script tag -->
+    <!-- 1.separation of concerns -->
+    <!-- 2.browser caching -->
+    <script src="script.js">
+        console.log("hello world"); // this will not work and neglected
+    </script>
+</body>
+</html>
