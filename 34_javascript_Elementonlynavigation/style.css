@@ -1,0 +1,21 @@
+/* css is for styling */
+
+html, body{
+    height: 100%;
+    width: 100%;
+    background: rgb(252, 249, 249);
+    color: rgb(9, 9, 9);
+}
+
+ul{
+    display: flex;
+    background: grey;
+    margin: 0;
+    padding: 15px 0;
+    color: white;
+}
+
+ul li{
+    list-style: none;
+    margin: 0 23px;
+}
