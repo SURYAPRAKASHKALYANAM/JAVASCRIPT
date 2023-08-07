@@ -1,0 +1,42 @@
+/* css is for styling */
+
+  
+
+/* class box */
+.box
+{
+    color: #6C00FF ;
+    font-size: 1.5em;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    width: 800px;
+    max-height: 800px;
+    padding: 40px;
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+    flex-direction: column;
+    margin: auto;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    box-shadow: 0 0 10px #2C3333;
+    margin-top: 100px;
+
+}
+
+/* class button-primary-outlined */
+
+.button-primary-outlined {
+    border: 2px solid #6C00FF;
+    border-radius: 4px;
+    color:  #6C00FF;
+    cursor: pointer;
+    font-size: 1rem;
+    font-weight: 500;
+    margin-top: 70px;
+    margin-left:850px;
+    line-height: 1.5;
+    padding: 0.5rem 1rem;
+    text-decoration: none;
+    text-transform: uppercase;
+    transition: all 0.3s ease 0s;
+}

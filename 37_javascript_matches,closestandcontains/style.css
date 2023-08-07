@@ -1,0 +1,8 @@
+/* css is for styling */
+
+html, body{
+    height: 100%;
+    width: 100%;
+    background: rgb(252, 249, 249);
+    color: rgb(9, 9, 9);
+}
