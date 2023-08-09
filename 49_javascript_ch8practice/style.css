@@ -1,8 +1,6 @@
 /* css is for styling */
 
-  
-
-/* html, body {
+html, body {
   margin: 0;
   padding: 0;
   font-family: sans-serif;
@@ -16,8 +14,10 @@
   margin-top: 340px;
   margin-left: 600px;
 }
+
 /*  id btn  */
-/* #btn1 {
+
+#btn1 {
   padding: 10px 20px;
   background-color: #333;
   color: #fff;
@@ -35,6 +35,7 @@
   border-radius: 5px;
   cursor: pointer;
 }
+
 #btn3
 {
   padding: 10px 20px;
@@ -43,9 +44,9 @@
   border: none;
   border-radius: 5px;
   cursor: pointer;
-} */
+} 
 
-/* #google
+#google
 {
   padding: 10px 20px;
   background-color: #4cf6a1;
@@ -54,6 +55,7 @@
   border-radius: 5px;
   cursor: pointer;
 }
+
 #facebook
 {
   padding: 10px 20px;
@@ -63,8 +65,8 @@
   border-radius: 5px;
   cursor: pointer;
 }
-#twitter
 
+#twitter
 {
   padding: 10px 20px;
   background-color: #f64c4c;
@@ -72,9 +74,9 @@
   border: none;
   border-radius: 5px;
   cursor: pointer;
-} */
+} 
 
-.bulbb
+.bulb
 {
   margin-top: 400px;
   margin-left: 600px;
