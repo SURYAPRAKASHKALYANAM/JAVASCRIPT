@@ -1,0 +1,84 @@
+/* css is for styling */
+
+  
+
+/* html, body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #333;
+}
+
+.container
+{
+  margin-top: 340px;
+  margin-left: 600px;
+}
+/*  id btn  */
+/* #btn1 {
+  padding: 10px 20px;
+  background-color: #333;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+#btn2
+{
+  padding: 10px 20px;
+  background-color: #4cdcf6;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+#btn3
+{
+  padding: 10px 20px;
+  background-color: #7c4cf6;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+} */
+
+/* #google
+{
+  padding: 10px 20px;
+  background-color: #4cf6a1;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+#facebook
+{
+  padding: 10px 20px;
+  background-color: #0a0a0a;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+#twitter
+
+{
+  padding: 10px 20px;
+  background-color: #f64c4c;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+} */
+
+.bulbb
+{
+  margin-top: 400px;
+  margin-left: 600px;
+  height:341px;
+  width:341px;
+  background-color: yellow;
+}
