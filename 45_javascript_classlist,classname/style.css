@@ -1,0 +1,27 @@
+/* css is for styling */
+
+  
+
+html, body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #333;
+}
+.yellow
+{
+  background-color: yellow;
+  color:white;
+}
+.red
+{
+  background-color: red;
+  color:white;
+}
+.text-dark
+{
+  color: #333;
+
+}
