@@ -1,0 +1,19 @@
+/* css is for styling */
+
+html, body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #333;
+}
+
+
+#clock
+{
+  margin: 300px 0px 0px 350px;
+  background-color: black;
+  color: white;
+  padding: 10px 20px;
+}
