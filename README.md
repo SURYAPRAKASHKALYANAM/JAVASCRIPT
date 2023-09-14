@@ -6,25 +6,25 @@
 <h1>Thank you <a href="https://www.youtube.com/playlist?list=PLu0W_9lII9ahR1blWXxgSlL4y9iQBnLpR" target="_blank">CodeWithHarry</a> for such a complete js course</h1>
 
 <ul>
-<li><a href="https://github.com/SURYAPRAKASHKALYANAM/JAVASCRIPT/blob/main/03_var_let_const.js" target="_blank">03_var_let_const.js</a></li><br>
-<li><a href="https://github.com/SURYAPRAKASHKALYANAM/JAVASCRIPT/blob/main/04_primitive_bjects.js" target="_blank">04_primitive_bjects.js</a></li><br>
-<li><a href="https://github.com/SURYAPRAKASHKALYANAM/JAVASCRIPT/blob/main/05_ch1_practicese.js" target="_blank">05_ch1_practicese.js</a></li><br>
-<li><a href="https://github.com/SURYAPRAKASHKALYANAM/JAVASCRIPT/blob/main/06_operators.js" target="_blank">06_operators.js</a></li><br>
-<li><a href="https://github.com/SURYAPRAKASHKALYANAM/JAVASCRIPT/blob/main/07_conditionalexpressions.js" target="_blank">07_conditionalexpressions.js</a></li><br>
-<li><a href="https://github.com/SURYAPRAKASHKALYANAM/JAVASCRIPT/blob/main/08_ch2_practice.js" target="_blank">08_ch2_practice.js</a></li><br>
-<li><a href="https://github.com/SURYAPRAKASHKALYANAM/JAVASCRIPT/blob/main/09_for_loops.js" target="_blank">09_for_loops.js</a></li><br>
-<li><a href="https://github.com/SURYAPRAKASHKALYANAM/JAVASCRIPT/blob/main/10_whileloops.js" target="_blank">10_whileloops.js</a></li><br>
-<li><a href="https://github.com/SURYAPRAKASHKALYANAM/JAVASCRIPT/blob/main/11_functions.js" target="_blank">11_functions.js</a></li><br>
-<li><a href="https://github.com/SURYAPRAKASHKALYANAM/JAVASCRIPT/blob/main/12_ch3Practicest.js" target="_blank">12_ch3Practicest.js</a></li><br>
-<li><a href="https://github.com/SURYAPRAKASHKALYANAM/JAVASCRIPT/blob/main/13_strins.js" target="_blank">13_strins.js</a></li><br>
-<li><a href="https://github.com/SURYAPRAKASHKALYANAM/JAVASCRIPT/blob/main/14_stringmethods.js" target="_blank">14_stringmethods.js</a></li><br>
-<li><a href="https://github.com/SURYAPRAKASHKALYANAM/JAVASCRIPT/blob/main/15_ch4_practiceset.js" target="_blank">15_ch4_practiceset.js</a></li><br>
-<li><a href="https://github.com/SURYAPRAKASHKALYANAM/JAVASCRIPT/blob/main/16_arrays.js" target="_blank">16_arrays.js</a></li><br>
-<li><a href="https://github.com/SURYAPRAKASHKALYANAM/JAVASCRIPT/blob/main/17&18_arraymethods.js" target="_blank">17&18_arraymethods.js</a></li><br>
-<li><a href="https://github.com/SURYAPRAKASHKALYANAM/JAVASCRIPT/blob/main/19_array_loops.js" target="_blank">19_array_loops.js</a></li><br>
-<li><a href="https://github.com/SURYAPRAKASHKALYANAM/JAVASCRIPT/blob/main/20_map,filter,reduce.js" target="_blank">20_map,filter,reduce.js</a></li><br>
-<li><a href="https://github.com/SURYAPRAKASHKALYANAM/JAVASCRIPT/blob/main/21_ch5practice.js" target="_blank">21_ch5practice.js</a></li><br>
-<li><a href="https://github.com/SURYAPRAKASHKALYANAM/JAVASCRIPT/blob/main/22_excercise1_guessing number.js" target="_blank">22_excercise1_guessing number.js</a></li><br>
+<li><a href="https://github.com/SURYAPRAKASHKALYANAM/JAVASCRIPT/blob/main/03_var_let_const.js" target="_blank">03_var_let_const</a></li><br>
+<li><a href="https://github.com/SURYAPRAKASHKALYANAM/JAVASCRIPT/blob/main/04_primitive_bjects.js" target="_blank">04_primitive_bjects</a></li><br>
+<li><a href="https://github.com/SURYAPRAKASHKALYANAM/JAVASCRIPT/blob/main/05_ch1_practicese.js" target="_blank">05_ch1_practicese</a></li><br>
+<li><a href="https://github.com/SURYAPRAKASHKALYANAM/JAVASCRIPT/blob/main/06_operators.js" target="_blank">06_operators</a></li><br>
+<li><a href="https://github.com/SURYAPRAKASHKALYANAM/JAVASCRIPT/blob/main/07_conditionalexpressions.js" target="_blank">07_conditionalexpressions</a></li><br>
+<li><a href="https://github.com/SURYAPRAKASHKALYANAM/JAVASCRIPT/blob/main/08_ch2_practice.js" target="_blank">08_ch2_practice</a></li><br>
+<li><a href="https://github.com/SURYAPRAKASHKALYANAM/JAVASCRIPT/blob/main/09_for_loops.js" target="_blank">09_for_loops</a></li><br>
+<li><a href="https://github.com/SURYAPRAKASHKALYANAM/JAVASCRIPT/blob/main/10_whileloops.js" target="_blank">10_whileloops</a></li><br>
+<li><a href="https://github.com/SURYAPRAKASHKALYANAM/JAVASCRIPT/blob/main/11_functions.js" target="_blank">11_functions</a></li><br>
+<li><a href="https://github.com/SURYAPRAKASHKALYANAM/JAVASCRIPT/blob/main/12_ch3Practicest.js" target="_blank">12_ch3Practicest</a></li><br>
+<li><a href="https://github.com/SURYAPRAKASHKALYANAM/JAVASCRIPT/blob/main/13_strins.js" target="_blank">13_strins</a></li><br>
+<li><a href="https://github.com/SURYAPRAKASHKALYANAM/JAVASCRIPT/blob/main/14_stringmethods.js" target="_blank">14_stringmethods</a></li><br>
+<li><a href="https://github.com/SURYAPRAKASHKALYANAM/JAVASCRIPT/blob/main/15_ch4_practiceset.js" target="_blank">15_ch4_practiceset</a></li><br>
+<li><a href="https://github.com/SURYAPRAKASHKALYANAM/JAVASCRIPT/blob/main/16_arrays.js" target="_blank">16_arrays</a></li><br>
+<li><a href="https://github.com/SURYAPRAKASHKALYANAM/JAVASCRIPT/blob/main/17&18_arraymethods.js" target="_blank">17&18_arraymethods</a></li><br>
+<li><a href="https://github.com/SURYAPRAKASHKALYANAM/JAVASCRIPT/blob/main/19_array_loops.js" target="_blank">19_array_loops</a></li><br>
+<li><a href="https://github.com/SURYAPRAKASHKALYANAM/JAVASCRIPT/blob/main/20_map,filter,reduce.js" target="_blank">20_map,filter,reduce</a></li><br>
+<li><a href="https://github.com/SURYAPRAKASHKALYANAM/JAVASCRIPT/blob/main/21_ch5practice.js" target="_blank">21_ch5practice</a></li><br>
+<li><a href="https://github.com/SURYAPRAKASHKALYANAM/JAVASCRIPT/blob/main/22_excercise1_guessing number.js" target="_blank">22_excercise1_guessing number</a></li><br>
 <li><a href="https://github.com/SURYAPRAKASHKALYANAM/JAVASCRIPT/tree/main/23_javascript_in_browser" target="_blank">23_javascript_in_browser</a></li><br>
 <li><a href="https://github.com/SURYAPRAKASHKALYANAM/JAVASCRIPT/tree/main/24_javascript_tag" target="_blank">24_javascript_tag</a></li><br>
 <li><a href="https://github.com/SURYAPRAKASHKALYANAM/JAVASCRIPT/tree/main/25_javascript_consoleobject" target="_blank">25_javascript_consoleobject</a></li><br>
