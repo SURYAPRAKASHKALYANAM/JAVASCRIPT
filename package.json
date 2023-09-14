@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "03_var_let_const.js",
+  "type": "module",
   "dependencies": {
     "ansi-regex": "^4.1.1",
     "pdf-node": "^1.0.1",
